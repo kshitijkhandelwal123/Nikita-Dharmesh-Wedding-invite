@@ -1,0 +1,19 @@
+SHIV PARVATI · HIMALAYAN WEDDING INVITATION — HOW TO EDIT
+=========================================================
+Edit ONLY details.js (on GitHub: open the file > pencil icon > edit > Commit changes).
+Keep the "quotes" and the commas.
+
+Couple ........ groom / bride (short names), groomFull / brideFull (on the invitation card), monogram, parents & labels
+Opening ....... gateEyebrow, gateText — tapping the Om makes the lotus bloom
+Top & card .... heroEyebrow, place, blessing, tagline, inviteLine, cardFooter (null = automatic date + venue)
+Pictures ...... gallery (couple photos g1-g4.jpg), venueImage (venue-temple.jpg), blessingImage + blessingQuote + blessingSub (Shiv Parvati picture after RSVP), heroImage, venueImage, footerImage, couplePhoto, gallery, event images.
+                To use a real photo: put it in the images folder and write e.g. "images/temple.jpg"
+Date .......... weddingDateTime (countdown), dateDay / dateMonth / dateYear (3 scratch cards — shown on EVERY visit)
+Events ........ add / remove lines; "time" can also be a place (e.g. "Haridwar")
+Venue ......... venueName, venueAddress, venueNote, venueCity, mapLink (the Google Maps link for "Find your way")
+Wardrobe ...... dressCode: image (outfit picture), colors (dots), look (use | for a new line)
+RSVP .......... whatsapp (country code + number, no +), rsvpBy
+Closing ....... closing, families, hashtag
+Music ......... put your mp3 in the music folder; if you replace it, use a NEW name (song2.mp3) and update music: "music/song2.mp3"
+Colours ....... theme: ink, blue (main red), sky, mist, gold
+Hide .......... hideSections: e.g. ["gallery"]
