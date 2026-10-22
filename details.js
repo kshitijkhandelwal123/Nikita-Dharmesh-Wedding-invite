@@ -87,7 +87,7 @@ window.WEDDING = {
   closing: "Your presence and blessings will make our celebration complete.",
   families: "With love — The Ghosh & Vira Families",
   hashtag: "",                         /* "" = auto #NikitaWedsDharmesh */
-  music: "music/song.mp3",             /* "" = no music */
+  music: "music/song2.mp3",             /* "" = no music */
 
   /* ---- colours (hex) ---- */
   theme: { ink: "#5a1a24", blue: "#b8323a", sky: "#f6cfcf", mist: "#fdf0ee", gold: "#c99a3e" },
