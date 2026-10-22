@@ -78,7 +78,7 @@ window.WEDDING = {
   dressCode: [                         /* poster = full dress-code poster (tap to enlarge) */
     { event: "Haldi",   look: "Sunshine yellow & floral pastels", colors: [], image: "", poster: "images/dress-haldi.jpg" },
     { event: "Mehendi", look: "Mehendi green, pink & orange",         colors: [], image: "", poster: "images/dress-mehendi.jpg" },
-    { event: "Wedding", look: "Pastel, floral, light pink & green",   colors: [], image: "", poster: "images/dress-wedding.jpg" }
+    { event: "Wedding", look: "Pastel, floral, light pink & green",   colors: [], image: "", poster: "images/dress-wedding.jpg.PNG" }
   ],
 
   /* ---- RSVP & closing ---- */
