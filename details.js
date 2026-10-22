@@ -55,12 +55,12 @@ window.WEDDING = {
   /* ---- events (add / remove / reorder lines freely; "time" can also be a place) ---- */
   eventsEyebrow: "Five days in the Himalayas",
   events: [
-    { date: "28 Jan", time: "Haridwar",            title: "Ganga Nimantran",   note: "Inviting Maa Ganga's blessings on the holy ghats",   image: "images/ganga.svg" },
-    { date: "29 Jan", time: "Uttarakhand",         title: "Journey to the Mountains", note: "Reaching the wedding destination together",   image: "images/himalaya.svg", focus: "bottom" },
+    { date: "28 Jan", time: "Haridwar",            title: "Ganga Nimantran",   note: "Inviting Maa Ganga's blessings on the holy ghats",   image: "images/ganga.svg.PNG" },
+    { date: "29 Jan", time: "Uttarakhand",         title: "Journey to the Mountains", note: "Reaching the wedding destination together",   image: "images/himalaya.svg.PNG", focus: "bottom" },
     { date: "30 Jan", time: "Morning",             title: "Haldi",             note: "Turmeric, sunshine & lots of laughter",              image: "images/ev-haldi.jpg" },
-    { date: "30 Jan", time: "Evening",             title: "Mehndi",            note: "Henna, music & celebrations",                         image: "images/mehndi.svg" },
+    { date: "30 Jan", time: "Evening",             title: "Mehndi",            note: "Henna, music & celebrations",                         image: "images/mehndi.svg.PNG" },
     { date: "31 Jan", time: "Triyuginarayan Temple", title: "The Wedding",     note: "Seven vows before the eternal sacred fire",           image: "images/venue-temple.jpg" },
-    { date: "1 Feb",  time: "Rishikesh",           title: "Relax Halt",        note: "Unwinding by the Ganga before heading home",          image: "images/rishikesh.svg" }
+    { date: "1 Feb",  time: "Rishikesh",           title: "Relax Halt",        note: "Unwinding by the Ganga before heading home",          image: "images/rishikesh.svg.PNG" }
   ],
 
   /* ---- venue ---- */
