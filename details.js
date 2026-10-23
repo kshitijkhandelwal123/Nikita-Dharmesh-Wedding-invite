@@ -83,7 +83,7 @@ window.WEDDING = {
 
   /* ---- RSVP & closing ---- */
   whatsapp: "919874427128",            /* country code + number, no + sign. e.g. 919876543210 */
-  rsvpBy: "(Reply by 27-28th Oct)",   /* line under the RSVP button ("" = hide) */
+  rsvpBy: "(Reply by 1st-2nd Nov)",   /* line under the RSVP button ("" = hide) */
   closing: "Your presence and blessings will make our celebration complete.",
   families: "With love — The Ghosh & Vira Families",
   hashtag: "",                         /* "" = auto #NikitaWedsDharmesh */
